@@ -9,7 +9,7 @@ import org.json.JSONObject;
 
 public class Main {
 
-    private static final String KEY = "63fbf90e-f4c4-4dab-bef3-61e31153bab5";
+    private static final String KEY = "some_key";
 
     public static void main(String[] args) {
         getWeatherData(55.7522, 37.6156, 20);
